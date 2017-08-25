@@ -26,7 +26,7 @@ msgstr "Spek"
 
 #: ../data/spek.desktop.in.in.h:2
 msgid "Spectrum Analyser"
-msgstr "Spektralanalysator"
+msgstr "Spektrumanalysator"
 
 #: ../data/spek.desktop.in.in.h:3
 msgid "View spectrograms of your audio files"
@@ -34,7 +34,7 @@ msgstr "Spektrogramm der Audiodateien anzeigen"
 
 #: ../data/spek.desktop.in.in.h:4
 msgid "Spek Spectrum Analyser"
-msgstr "Spek Spektralanalysator"
+msgstr "Spek Spektrumanalysator"
 
 #: ../src/spek-pipeline.cc:197
 #, c-format
@@ -62,7 +62,7 @@ msgstr[1] "%d Kanäle"
 
 #: ../src/spek-pipeline.cc:234
 msgid "Cannot open input file"
-msgstr "Datei kann nicht geöffnet werden"
+msgstr "Die Datei kann nicht geöffnet werden"
 
 #: ../src/spek-pipeline.cc:237
 msgid "Cannot find stream info"
@@ -90,7 +90,7 @@ msgstr "Decoder kann nicht geöffnet werden"
 
 #: ../src/spek-pipeline.cc:255
 msgid "Unsupported sample format"
-msgstr "Format nicht unterstützt"
+msgstr "Ein nicht unterstützter Format"
 
 #. TRANSLATORS: first %s is the error message, second %s is stream
 #. description.
@@ -105,7 +105,7 @@ msgstr "Einstellungen"
 
 #: ../src/spek-preferences-dialog.cc:72
 msgid "(system default)"
-msgstr "(System Standard)"
+msgstr "(Systemeinstellung)"
 
 #. TRANSLATORS: The name of a section in the Preferences dialog.
 #: ../src/spek-preferences-dialog.cc:79
