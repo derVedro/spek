@@ -90,7 +90,7 @@ msgstr "Decoder kann nicht geöffnet werden"
 
 #: ../src/spek-pipeline.cc:255
 msgid "Unsupported sample format"
-msgstr "Ein nicht unterstützter Format"
+msgstr "Ein nicht unterstütztes Format"
 
 #. TRANSLATORS: first %s is the error message, second %s is stream
 #. description.
